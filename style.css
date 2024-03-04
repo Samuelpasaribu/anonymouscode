@@ -416,8 +416,28 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 /* CSS untuk elemen Beranda */
+.beranda {
+    position: relative;
+    display: inline-block;
+}
+
 .beranda::before {
-    content: url('data:image/svg+xml;utf8,<svg height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M12 6.453l9 8.375v9.172h-6v-6h-6v6h-6v-9.172l9-8.375zm12 5.695l-12-11.148-12 11.133 1.361 1.465 10.639-9.868 10.639 9.883 1.361-1.465z" fill="white"></path></svg>');
+    content: '';
+    display: inline-block;
+    width: 22px; /* Sesuaikan dengan lebar SVG */
+    height: 22px; /* Sesuaikan dengan tinggi SVG */
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>');
+}
+
+.beranda::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 10px;
+    height: 10px;
+    background-color: tomato;
+    border-radius: 50%;
 }
 
 /* CSS untuk elemen Code */
