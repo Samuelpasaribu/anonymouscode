@@ -28,7 +28,7 @@ body {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 3px;
 }
 
 /* Header Styles */
@@ -158,8 +158,8 @@ table {
 
 th,
 td {
-    padding: 7px;
-    font-size: 10px;
+    padding: 5px;
+    font-size: 12px;
     text-align: left;
 }
 
