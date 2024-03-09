@@ -530,7 +530,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .topnav i {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
 }
   
 /* Tambahan gaya untuk memperbaiki tata letak ikon */
