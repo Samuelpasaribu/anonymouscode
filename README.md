@@ -5,3 +5,9 @@
 2. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/style.css">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/style.css</a>
 <br />
 3. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/index.js">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/index.js</a>
+<br />
+<br />
+<p><i><b>update</b>17-03-2024</i></p>
+1. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/index.css">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/index.css</a>
+<br />
+2. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/anonymous.js">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/anonymous.js</a>
