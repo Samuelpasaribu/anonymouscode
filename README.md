@@ -13,3 +13,5 @@
 2. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/anonymous.js">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/anonymous.js</a>
 <br />
 3. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/haxorai.js">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/haxorai.js</a>
+<br />
+4. <a href="https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/html.js">https://cdn.jsdelivr.net/gh/samuelpasaribu/anonymouscode/html.js</a>
